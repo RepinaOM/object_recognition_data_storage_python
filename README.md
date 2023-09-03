@@ -16,23 +16,23 @@
 ![База данных содержит три таблицы: таблица "плохих" файлов с названиями файлов и папок, таблица "хороших" файлов с названиями файлов и папок, таблица координат объектов на "хороших" файлах](db_structure.jpg)
 - Python и его библиотеки:
   
- -- Pillow
+   - Pillow
 
- -- os
+   - os
  
- -- Requests
+   - Requests
  
- -- BeautifulSoup4
+   - BeautifulSoup4
  
- -- Tkinter
+   - Tkinter
  
- -- Subprocess
+   - Subprocess
  
- -- PyMySQL
+   - PyMySQL
  
- -- Matplotlib
+   - Matplotlib
  
- -- cv2
+   - cv2
 
 ## Лицензия
 Creative Commons Zero (CC0) — Отсутствие авторских прав
